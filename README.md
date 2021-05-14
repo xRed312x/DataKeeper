@@ -13,11 +13,11 @@ After you downloaded the DataKeeper-0.7.zip and extracted it somewhere, here's w
 
 
 What you can find in this ZIP:
-	-DataKeeper-Downloader.exe	(The Downloader !OPEN FIRST!)
-	-DataKeeper-Downloader-src.zip	(The Source Code for the Downloader)
-	-DataKeeper-0.7.exe		(the Program)
-	-DataKeeper-0.7-src.zip		(The Source Code for the Program)	
-	-README.TXT
+	1.DataKeeper-Downloader.exe	(The Downloader !OPEN FIRST!)
+	2.DataKeeper-Downloader-src.zip	(The Source Code for the Downloader)
+	3.DataKeeper-0.7.exe		(the Program)
+	4.DataKeeper-0.7-src.zip	(The Source Code for the Program)	
+	5.README.TXT
 
 This Program was Programmed using JDK-1.8 and was converted into an .exe with Launch4J.
 And most importantly: ITS OPEN SOURCE!
