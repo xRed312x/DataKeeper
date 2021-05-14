@@ -3,6 +3,7 @@ DataKeeper is a password manager.
 
 
 After you downloaded the DataKeeper-0.7.zip and extracted it somewhere, here's what to do:
+
 1.open the DataKeeper-Downloader.exe and download the dependencies. If an Error occures, here's what to do:
 	check your UserHome and look out for a Folder named "DataKeeper". Delete this Folder and try installing it again.
 	If this doesnt work please contact me!
