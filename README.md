@@ -1,5 +1,5 @@
 This Project was made by 75ilip.
-DataKeeper is a password manager.
+DataKeeper is an open source password manager.
 
 
 After you downloaded the DataKeeper-0.7.zip and extracted it somewhere, here's what to do:
@@ -28,7 +28,6 @@ What you can find in this ZIP:
 5.README.TXT
 
 This Program was Programmed using JDK-1.8 and was converted into an .exe with Launch4J.
-And most importantly: ITS OPEN SOURCE!
 
 
 LINKS for contacting me:
